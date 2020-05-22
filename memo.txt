@@ -5,5 +5,13 @@ dans le dossier dans lequel on se situe.
 
 ==========================================
 
+commande : git status 
 
-
+description : faire le bilian de l'état actuel 
+de notre projet git.
+    - indique toujours que l'on est sur la 
+    branche "master"
+    - en rouge : les modofications qui ne seront
+    pas enregistrées
+    - en vert : les modofications qui seront
+    enregistrées
