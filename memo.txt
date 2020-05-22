@@ -23,7 +23,7 @@ commande : git add <dossier ou fichier>
 description :(souvent, on tape : git add .)
 permet d'indiquer à git d'ajouter les 
 modifications ciblées au prochain commit. 
-Les modifications seront passé de la zone
+Les modifications seront passées de la zone
 "rouge" (unstagged), qui ne sont pas prises 
 en comptes lors d'un commit, à la zone verte
 (stagged). Quand une modification est dans la 
@@ -32,4 +32,13 @@ En gros, c'est un "attention on va
 sauvegarder, prépare-toi ! 
 
 ==========================================
-  
+
+commande : git commit -m <message> 
+
+description : la commande d'enregistrement
+des modifications. Une fois les modifications
+ajoutées avec "git add", la commande commit
+permet d'enregistrer définitivement nos 
+modifications, en y attachant un message 
+personnalisé, sensé décrire les modifications
+effectuées. 
