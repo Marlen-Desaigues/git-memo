@@ -88,3 +88,11 @@ par projet.
 Cette commande nécessite d'avoir ajouté un
 dépôt avec la commande "git remote".
 
+==========================================
+
+commande : git push 
+
+description :envoie nos modifications enregistrées
+vers le dépot distant configuré avec la commande 
+précédente.
+
